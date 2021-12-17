@@ -1,1 +1,1 @@
-# demoConflit : j'aime les petits pains au chocolat !
+# demoConflit : j'aime les cookies !
